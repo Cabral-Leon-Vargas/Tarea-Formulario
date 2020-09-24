@@ -11,3 +11,16 @@ C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\Formulario\bi
 C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.dll
 C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.pdb
 C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.genruntimeconfig.cache
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\bin\Debug\netcoreapp3.1\Formulario.exe
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\bin\Debug\netcoreapp3.1\Formulario.deps.json
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.json
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.dev.json
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\bin\Debug\netcoreapp3.1\Formulario.dll
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\bin\Debug\netcoreapp3.1\Formulario.pdb
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.csprojAssemblyReference.cache
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfoInputs.cache
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfo.cs
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CoreCompileInputs.cache
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.dll
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.pdb
+D:\Users\MILDRED\Documents\GitHub\Tareas\Formulario\obj\Debug\netcoreapp3.1\Formulario.genruntimeconfig.cache
