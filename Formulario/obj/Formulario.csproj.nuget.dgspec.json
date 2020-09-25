@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj": {}
+    "C:\\Users\\oficina1\\Desktop\\UPCI\\cuatri6\\Base de Datos\\Github\\Tareas\\Formulario\\Formulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj": {
+    "C:\\Users\\oficina1\\Desktop\\UPCI\\cuatri6\\Base de Datos\\Github\\Tareas\\Formulario\\Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\oficina1\\Desktop\\UPCI\\cuatri6\\Base de Datos\\Github\\Tareas\\Formulario\\Formulario.csproj",
         "projectName": "Formulario",
-        "projectPath": "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj",
-        "packagesPath": "C:\\Users\\vvict\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\obj\\",
+        "projectPath": "C:\\Users\\oficina1\\Desktop\\UPCI\\cuatri6\\Base de Datos\\Github\\Tareas\\Formulario\\Formulario.csproj",
+        "packagesPath": "C:\\Users\\oficina1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oficina1\\Desktop\\UPCI\\cuatri6\\Base de Datos\\Github\\Tareas\\Formulario\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\oficina1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

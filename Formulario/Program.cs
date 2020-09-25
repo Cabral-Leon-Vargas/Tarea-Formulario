@@ -21,20 +21,20 @@ namespace Formulario
 
             if (edad < 18) 
             {
-                Console.WriteLine("Lo sentimos, el registro solo es permitido para mayores de edad");
+                Console.WriteLine("\n\nLo sentimos, el registro solo es permitido para mayores de edad");
                 
 
 
             }
             else
             {
-                Console.Write("El registro fue existoso\n\n");
+                Console.Write("\n\nEl registro fue existoso");
 
                 Console.WriteLine("\nTu nombre es: {0}", nom);
                 Console.WriteLine("\nTu edad es: {0}", edad);
                 Console.WriteLine("\nTu número de teléfono es: {0}", numtel);
                 Console.WriteLine("\nTu correo electrónico es: {0}", correo);
-                Console.WriteLine("\nTu ocupación es: {0, ocup);");
+                Console.WriteLine("\nTu ocupación es: {0}", ocup);
            
             }
         }

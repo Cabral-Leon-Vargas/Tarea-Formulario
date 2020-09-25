@@ -24,3 +24,9 @@ C:\Users\romar\Desktop\TAREA\obj\Debug\netcoreapp3.1\AplicacionPrueba.csproj.Cor
 C:\Users\romar\Desktop\TAREA\obj\Debug\netcoreapp3.1\AplicacionPrueba.dll
 C:\Users\romar\Desktop\TAREA\obj\Debug\netcoreapp3.1\AplicacionPrueba.pdb
 C:\Users\romar\Desktop\TAREA\obj\Debug\netcoreapp3.1\AplicacionPrueba.genruntimeconfig.cache
+C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\obj\Debug\netcoreapp3.1\AplicacionPrueba.csprojAssemblyReference.cache
+C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\obj\Debug\netcoreapp3.1\AplicacionPrueba.AssemblyInfoInputs.cache
+C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\obj\Debug\netcoreapp3.1\AplicacionPrueba.AssemblyInfo.cs
+C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\obj\Debug\netcoreapp3.1\AplicacionPrueba.csproj.CoreCompileInputs.cache
+C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\obj\Debug\netcoreapp3.1\AplicacionPrueba.dll
+C:\Users\oficina1\Desktop\UPCI\cuatri6\Base de Datos\Github\Tareas\obj\Debug\netcoreapp3.1\AplicacionPrueba.pdb
