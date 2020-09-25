@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\MILDRED\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj": {}
+    "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj": {}
   },
   "projects": {
-    "D:\\Users\\MILDRED\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj": {
+    "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\MILDRED\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj",
         "projectName": "Formulario",
-        "projectPath": "D:\\Users\\MILDRED\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj",
-        "packagesPath": "C:\\Users\\MILDRED\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\MILDRED\\Documents\\GitHub\\Tareas\\Formulario\\obj\\",
+        "projectPath": "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\Formulario.csproj",
+        "packagesPath": "C:\\Users\\vvict\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vvict\\Documents\\GitHub\\Tareas\\Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MILDRED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
